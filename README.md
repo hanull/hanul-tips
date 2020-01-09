@@ -1,2 +1,2 @@
-## Errors and Tips :warning: :bulb: :punch:
+## :warning: Errors and Tips :bulb:
 
